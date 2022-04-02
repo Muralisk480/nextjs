@@ -1,0 +1,40 @@
+.user__details_container{
+    padding: 0 15px;
+}
+
+
+.user__details{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+
+.user__details li {
+    margin-bottom: .8rem;
+}
+.user__details li div {
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.user__details li > div > span {
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+.back__btn{
+    display: inline-block;
+    font-size: 1.2rem;
+    background: cornflowerblue;
+    margin: 1rem 0;
+    border-radius: 3px;
+    padding: .5rem 1rem;
+    cursor: pointer;
+}
+
+.title{
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 1.2rem;
+}
